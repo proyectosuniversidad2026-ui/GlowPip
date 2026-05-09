@@ -29,3 +29,35 @@
     <footer><p>&copy; 2026 GlowPip - Proyecto de Aula</p></footer>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Flores - GlowPip</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">GlowPip</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="flores.html" class="active">Flores</a></li>
+                <li><a href="lamparas.html">Lámparas</a></li>
+                <li><a href="nosotros.html">Nosotros</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Nuestro Jardín Eterno</h1>
+        <div class="grid">
+            <div class="card"><div class="img-placeholder">🌹</div><h3>Rosas</h3></div>
+            <div class="card"><div class="img-placeholder">🌻</div><h3>Girasoles</h3></div>
+            <div class="card"><div class="img-placeholder">🌷</div><h3>Tulipanes</h3></div>
+        </div>
+    </main>
+    <footer><p>&copy; 2026 GlowPip - Proyecto de Aula</p></footer>
+</body>
+</html>
